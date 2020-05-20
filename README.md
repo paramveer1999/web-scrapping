@@ -1,4 +1,4 @@
 # web-scrapping
 
-## modules to install->npm install cheerio,npm install require,npm install request
+## modules to install->(1)->npm install cheerio (2)->npm install require (3)->npm install request
                           
